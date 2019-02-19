@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1550581233221.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2577998968",
+    "id" : "20CE4F80",
+    "lastKnownWriteTime" : 1550589474,
+    "last_content_update" : 1550589474102,
+    "path" : "D:/VSB ING/PS2019/CVICENI 2/SourceCv2.R",
+    "project_path" : "SourceCv2.R",
+    "properties" : {
+        "cursorPosition" : "51,24",
+        "scrollLine" : "25",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
